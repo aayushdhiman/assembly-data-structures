@@ -2,6 +2,8 @@
 
 Based on starter code from a systems class. Created functionality for queues and vectors in C using .h files. Includes unit tests.
 
+Completed 10/13/2022.
+
 ## Makefile
 
  - `make` will compile the queue/vector implementation and the unit tests
