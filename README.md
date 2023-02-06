@@ -1,11 +1,8 @@
-# Assignment 4: Data Structures in C
+# Data Structures in C
 
-This is your starter code repo for Assignment 4. The assignment has two parts: [queue](queue/) and [vector](vector/).
-Please see the corresponding description on our website under [Assignments](https://course.ccs.neu.edu/cs3650sp22/hw.html).
+Based on starter code from a systems class. Created functionality for queues and vectors in C using .h files. Includes unit tests.
 
 ## Makefile
-
-Use the provided Makefiles ([queue/Makefile](queue/Makefile) and [vector/Makefile](vector/Makefile)) to make (re-)compilation easier:
 
  - `make` will compile the queue/vector implementation and the unit tests
  - `make test` will compile and run the provided unit tests
